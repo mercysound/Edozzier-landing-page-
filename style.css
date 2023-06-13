@@ -1,0 +1,98 @@
+body{
+  background-color: #F6F6FE;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+/* nav begin here */
+.first-nav{
+  /* height: 40px; */
+  width: 100%;
+  /* background-color: yellow; */
+  display: flex;
+  align-items: center;
+  color: #2A254F;
+  margin: 0 auto;
+}
+.edoicon-img{
+  /* vertical-align: middle; */
+  margin: 0 100px;
+}
+.nav-opt li{
+  margin: 0 40px;
+  font-size: 15px;
+  display: inline;
+}
+.nav-opt a{
+  text-decoration: none;
+}
+.reqwithbtn{
+  /* background-color: red; */
+  display: flex;
+  gap: 20px;
+  margin-left: 150px;
+}
+.reqwithbtn button{
+  background-color: #0E0D47;
+  color: #FFFEFF;
+  border: none;
+  margin: 8px auto;
+  border-radius: 5px;
+}
+/* driscription body begin here */
+.wrapper{
+  display: flex;
+  margin-top: 15vh;
+}
+.descr{
+  width: 50%;
+  margin-left: 30px;
+  /* background-color: aqua; */
+}
+.edo{
+  background: aquamarine;
+}
+
+.smart-sim{
+  margin: -18px 0;
+  color: #1C1740;
+  font-weight: 500;
+  font-size: 40px;
+  /* max-width: fit-content; */
+  /* margin: auto; */
+}
+.man-soll{
+  margin-top: 2px;
+  margin-bottom: -5px;
+  font-weight: 600;
+  font-size: 40px;
+  color: #1C1740;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+}
+.All-in-one{
+  margin-top: 40px;
+  color:steelblue;
+
+}
+ /* main bdy button began here */
+.reqstr-btn-box{
+  margin-top: 30px;
+
+}
+
+.req-btn{
+  background-color: white;
+  color: #0E0D47;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 0 20px 0 0;
+}
+.start-btn{
+  background-color: #0E0D47;
+  color: #FFFEFF;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+}
+
